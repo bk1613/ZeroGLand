@@ -1,0 +1,47 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - screenshake
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - platform
+  - player
+  - star
+  - surface
+  - bomb
+  - feulbar
+  - feulup
+  - feuldown
+  - gravityup
+  - gravitynorm
+  - gravityleft
+  - gravityright
+  - fuellimit1
+  - fuellimit2
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: surface
+    uniqueID: 772596673
+    locked: 0

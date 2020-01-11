@@ -1,0 +1,783 @@
+fileFormatVersion: 2
+guid: 59c529f8b11a36c459be313e9f9e3440
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: portal_sprites__sonic_rush__by_facundogomez-d7wcu74_0
+    21300002: portal_sprites__sonic_rush__by_facundogomez-d7wcu74_1
+    21300004: portal_sprites__sonic_rush__by_facundogomez-d7wcu74_2
+    21300006: portal_sprites__sonic_rush__by_facundogomez-d7wcu74_3
+    21300008: portal_sprites__sonic_rush__by_facundogomez-d7wcu74_4
+    21300010: portal_sprites__sonic_rush__by_facundogomez-d7wcu74_5
+    21300012: portal_sprites__sonic_rush__by_facundogomez-d7wcu74_6
+    21300014: portal_sprites__sonic_rush__by_facundogomez-d7wcu74_7
+    21300016: portal_sprites__sonic_rush__by_facundogomez-d7wcu74_8
+    21300018: portal_sprites__sonic_rush__by_facundogomez-d7wcu74_9
+    21300020: portal_sprites__sonic_rush__by_facundogomez-d7wcu74_10
+    21300022: portal_sprites__sonic_rush__by_facundogomez-d7wcu74_11
+    21300024: portal_sprites__sonic_rush__by_facundogomez-d7wcu74_12
+    21300026: portal_sprites__sonic_rush__by_facundogomez-d7wcu74_13
+    21300028: portal_sprites__sonic_rush__by_facundogomez-d7wcu74_14
+    21300030: portal_sprites__sonic_rush__by_facundogomez-d7wcu74_15
+    21300032: portal_sprites__sonic_rush__by_facundogomez-d7wcu74_16
+    21300034: portal_sprites__sonic_rush__by_facundogomez-d7wcu74_17
+    21300036: portal_sprites__sonic_rush__by_facundogomez-d7wcu74_18
+    21300038: portal_sprites__sonic_rush__by_facundogomez-d7wcu74_19
+    21300040: portal_sprites__sonic_rush__by_facundogomez-d7wcu74_20
+    21300042: portal_sprites__sonic_rush__by_facundogomez-d7wcu74_21
+    21300044: portal_sprites__sonic_rush__by_facundogomez-d7wcu74_22
+    21300046: portal_sprites__sonic_rush__by_facundogomez-d7wcu74_23
+    21300048: portal_sprites__sonic_rush__by_facundogomez-d7wcu74_24
+    21300050: portal_sprites__sonic_rush__by_facundogomez-d7wcu74_25
+    21300052: portal_sprites__sonic_rush__by_facundogomez-d7wcu74_26
+    21300054: portal_sprites__sonic_rush__by_facundogomez-d7wcu74_27
+    21300056: portal_sprites__sonic_rush__by_facundogomez-d7wcu74_28
+    21300058: portal_sprites__sonic_rush__by_facundogomez-d7wcu74_29
+    21300060: portal_sprites__sonic_rush__by_facundogomez-d7wcu74_30
+  externalObjects: {}
+  serializedVersion: 7
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: portal_sprites__sonic_rush__by_facundogomez-d7wcu74_0
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 132
+        width: 20
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ddba3be40c6b3a4fb9191a28df1e339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: portal_sprites__sonic_rush__by_facundogomez-d7wcu74_1
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 132
+        width: 23
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77e573417f5c7524bb9b9540761e8798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: portal_sprites__sonic_rush__by_facundogomez-d7wcu74_2
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 132
+        width: 4
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ec7d6bd36012d843af84e2c0af6059e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: portal_sprites__sonic_rush__by_facundogomez-d7wcu74_3
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 132
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 485d038c1549ac34eb8823d4a5a7c1c9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: portal_sprites__sonic_rush__by_facundogomez-d7wcu74_4
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 129
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13bc812c56b335d4b804f62fb1ae72ae
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: portal_sprites__sonic_rush__by_facundogomez-d7wcu74_5
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 132
+        width: 28
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 854a7945c59f73347a3c7c9844824f2c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: portal_sprites__sonic_rush__by_facundogomez-d7wcu74_6
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 129
+        width: 6
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c0a6a831b0bf37458e91d6d090fad51
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: portal_sprites__sonic_rush__by_facundogomez-d7wcu74_7
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 132
+        width: 20
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d85c6af3adf54e409b6f528a65def70
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: portal_sprites__sonic_rush__by_facundogomez-d7wcu74_8
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 132
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 216f8aef9d4118e4aa3c8793a5de3fef
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: portal_sprites__sonic_rush__by_facundogomez-d7wcu74_9
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 132
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a22627223fd692f4497881b9b1f168c9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: portal_sprites__sonic_rush__by_facundogomez-d7wcu74_10
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 132
+        width: 39
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58b3d86131457d4408b7f55ea6469d9a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: portal_sprites__sonic_rush__by_facundogomez-d7wcu74_11
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 129
+        width: 11
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3bc424845c0580042ad6fe595f7cfbae
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: portal_sprites__sonic_rush__by_facundogomez-d7wcu74_12
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 98
+        width: 52
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d684230086f84743ae1b4d72214627f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: portal_sprites__sonic_rush__by_facundogomez-d7wcu74_13
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 98
+        width: 52
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7ff6db0bac59e147b94f05158879464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: portal_sprites__sonic_rush__by_facundogomez-d7wcu74_14
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 98
+        width: 52
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ee997d430ab9234887aa5b56597bded
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: portal_sprites__sonic_rush__by_facundogomez-d7wcu74_15
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 98
+        width: 52
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ea8dd46b16e87e4196c5ed68ce09f88
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: portal_sprites__sonic_rush__by_facundogomez-d7wcu74_16
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 98
+        width: 52
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2f0dd4133296354387e3212efadee30
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: portal_sprites__sonic_rush__by_facundogomez-d7wcu74_17
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 98
+        width: 52
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56a24b270794d0a47a625672a21346a3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: portal_sprites__sonic_rush__by_facundogomez-d7wcu74_18
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 98
+        width: 52
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7585152478f7c4f45a535cd3c31ee3c8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: portal_sprites__sonic_rush__by_facundogomez-d7wcu74_19
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 46
+        width: 47
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef833714016dd764395b2a4cadb7168e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: portal_sprites__sonic_rush__by_facundogomez-d7wcu74_20
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 46
+        width: 42
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 099dea2127b73e341b909406f9c2e548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: portal_sprites__sonic_rush__by_facundogomez-d7wcu74_21
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 46
+        width: 28
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e8e6f91c8af82147b6e0c9262463f42
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: portal_sprites__sonic_rush__by_facundogomez-d7wcu74_22
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 46
+        width: 12
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee9bf7a229022684ab0c686adac9bf77
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: portal_sprites__sonic_rush__by_facundogomez-d7wcu74_23
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 19
+        width: 26
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e9e55d85d4d8354a935e5ba7da171e4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: portal_sprites__sonic_rush__by_facundogomez-d7wcu74_24
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 0
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82271fc2972a3124ebe9c3fe005d1d9c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: portal_sprites__sonic_rush__by_facundogomez-d7wcu74_25
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 19
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78c56c8d765a34448b8cb37435cd8ffd
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: portal_sprites__sonic_rush__by_facundogomez-d7wcu74_26
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 8
+        width: 11
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 359e150f5df39ad49a8d21be0ba6cf26
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: portal_sprites__sonic_rush__by_facundogomez-d7wcu74_27
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 8
+        width: 32
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a6e372504593264c900a1afe2bb1bfc
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: portal_sprites__sonic_rush__by_facundogomez-d7wcu74_28
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 8
+        width: 22
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8706a34c84b76047a0ed5ba9c686cc4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: portal_sprites__sonic_rush__by_facundogomez-d7wcu74_29
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 8
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6886650212b0f1418dc573295d9c4ef
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: portal_sprites__sonic_rush__by_facundogomez-d7wcu74_30
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 8
+        width: 22
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b09ed1051ffb6754197cb8630f6633b9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: cc32e6aa3f6406841b05d2bf91b11223
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
